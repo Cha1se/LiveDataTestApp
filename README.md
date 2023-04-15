@@ -1,3 +1,3 @@
 # LiveDataTestApp
-Мои первые шаги в MVVM\n
+Мои первые шаги в MVVM, 
 LiveData and ViewModel
